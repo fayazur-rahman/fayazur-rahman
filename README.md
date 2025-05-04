@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=d35400&width=450&height=28&lines=Hi+%F0%9F%91%8B+I'm+MD+Fayazur+Rahman...;EdTE+Graduate+%26+Tech+Enthusiast...;Nice+To+Meet+You+....&center=true" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=d35400&width=450&height=28&lines=Hi+%F0%9F%91%8B+I'm+MD+Fayazur+Rahman...;EdTech+Graduate+%26+Tech+Enthusiast...;Nice+To+Meet+You+....&center=true" alt="Typing SVG">
 </p>
 
 Welcome to my GitHub profile! I am an Educational Technology and Engineering graduate. I have experience developing award-winning EdTech platforms, mobile applications, applying machine learning for prediction modeling and forecasting. I am keenly interested in AI, machine learning, and data-driven solutions.

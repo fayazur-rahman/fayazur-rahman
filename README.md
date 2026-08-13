@@ -1,73 +1,52 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=d35400&width=450&height=28&lines=Hi+%F0%9F%91%8B+I'm+MD+Fayazur+Rahman...;EdTech+Graduate+%26+Tech+Enthusiast...;Nice+To+Meet+You+....&center=true" alt="Typing SVG">
-</p>
+# MD Fayazur Rahman
 
-Welcome to my GitHub profile! I am an Educational Technology and Engineering graduate. I have experience developing award-winning EdTech platforms, mobile applications, applying machine learning for prediction modeling and forecasting. I am keenly interested in AI, machine learning, and data-driven solutions.
+Hi, I'm Fayazur. I'm an engineer interested in DevOps, Linux, infrastructure, containers, automation, and cloud technologies.
 
----
-
-## 🔍 About Me
-
-- **🎓 Education:** B.Sc. Engg. in Educational Technology and Engineering, Gazipur Digital University
-- **💡 Interests:** Educational Technology, AI, Machine Learning, Deep Learning, Data Analysis, Forecasting, Mobile App Development
-- **🚀 Goals:** Enthusiastic about developing innovative applications, exploring AI/ML advancements, and contributing to impactful projects.
-- **📬 Contact:** Reach me at [fayazur7@gmail.com](mailto:fayazur7@gmail.com)
+I like understanding how things work under the hood and learning by building things myself. Most of what you'll find here is related to DevOps, system administration, and the tools and practices around running applications.
 
 ---
 
-## 🌟 Featured Projects
+## Areas of Interest
 
-### 1. [Probash Care App](https://github.com/fayazur-rahman/probash-care)
-   - **Description:** Led the development of a cross-platform mobile app connecting Bangladeshi expatriates with verified resources and ethical job opportunities.
-   - **Technologies:** Flutter, Dart, Firebase (Firestore)
-   - **Goal:** Build a supportive community and provide reliable information for expatriates, ensuring secure data management.
+* DevOps & Platform Engineering
+* Cloud & Infrastructure
+* Linux & Systems Engineering
+* DevSecOps & Security
+* CI/CD & Automation
+* Containers & Container Orchestration
+* Networking
+* Monitoring & Observability
 
-### 2. [Eduverse Learning Management System](https://github.com/fayazur-rahman/eduverse-lms)
-   - **Description:** Developed a Moodle-based Learning Management System, including course management, assessment tools, and user administration. Winner of project showcase awards.
-   - **Technologies:** PHP, MySQL, Moodle CMS, Digital Content Development tools
-   - **Goal:** Create a robust and user-friendly e-learning platform.
+## Tools & Technologies
 
-### 3. [Car Price Predictor](https://github.com/fayazur-rahman/car-price-prediction)
-   - **Description:** A machine learning-powered web application that predicts the price of used cars based on essential input features. This project uses a Linear Regression model, helping users make informed pricing decisions in the automotive market.
-   - **Technologies:** Python, Flask, Numpy, Pandas, Linear Regression. 
-   - **Goal:** Assist various stakeholders—buyers, sellers, and dealerships—with data-driven pricing decisions.
+**Containers:** Docker, Docker Compose, Kubernetes
+**Cloud & Infrastructure:** AWS, GCP, Terraform, Ansible
+**DevOps:** Git, GitHub, GitHub Actions, GitOps, Prometheus, Grafana
+**Development:** Python, Java, PHP, JavaScript, Dart, C, Flutter, MySQL, Redis
 
----
+## Background
 
-## 🛠️ Skills and Tools
+I have a background in software and application development, with experience across web applications, mobile development, and machine learning.
 
-### Programming & Development
-- Python, Flask, Java, Dart, Flutter, PHP, C, JavaScript (React), Google Apps Script
+Some of my earlier work includes developing applications, working with databases and backend systems, and building machine learning projects. That experience led me to become more interested in what happens beyond the application itself — how software is built, deployed, secured, monitored, and maintained.
 
-### Data Science & Machine Learning
-- Machine Learning (scikit-learn, TensorFlow)
-- Deep Learning (LSTM, basic LLM understanding)
-- Data Analysis & Management (Pandas, NumPy, MySQL)
+## Selected Projects
 
-### Systems, Cloud & CMS
-- System Administration (Linux/Ubuntu, Windows)
-- Cloud (Amazon AWS - Academy Certified)
-- CMS (Moodle, WordPress)
+### [Probash Care App](https://github.com/fayazur-rahman/probash-care)
 
-### Other Tools
-- Git, GitHub, Microsoft Office Suite, Camtasia, IBM SPSS, Oracle VirtualBox
+Cross-platform mobile app connecting Bangladeshi expatriates with verified resources and ethical job opportunities.
+**Technologies:** Flutter, Dart, Firebase (Firestore)
 
----
+### [Eduverse Learning Management System](https://github.com/fayazur-rahman/eduverse-lms)
 
-## 🌱 What I'm Learning
-- Advanced Deep Learning techniques (exploring LLMs further)
-- Cloud-based Machine Learning deployment (AWS SageMaker, etc.)
-- Scalable application architecture (Microservices, advanced backend techniques)
-- Refining skills in React and modern web development practices
+Moodle-based Learning Management System for course management, assessments, and user administration; winner of project showcase awards.
+**Technologies:** PHP, MySQL, Moodle CMS
 
----
+## Education
 
-## 📈 GitHub Stats
-![MD Fayazur Rahman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fayazur-rahman&show_icons=true&theme=radical)
+**B.Sc. Engg. in Educational Technology and Engineering**
+University of Frontier Technology, Bangladesh
 
----
+## Connect
 
-## 🤝 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/md-fayazur-rahman](https://linkedin.com/in/md-fayazur-rahman)
-- **Email:** [fayazur7@gmail.com](mailto:fayazur7@gmail.com)
-Thank you for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate or discuss ideas. 🚀
+[LinkedIn](https://linkedin.com/in/md-fayazur-rahman) · [Email](mailto:fayazur7@gmail.com)

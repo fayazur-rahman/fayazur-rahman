@@ -17,10 +17,10 @@ Hi, I'm Fayazur. I'm an EdTech graduate interested in DevOps, Linux, infrastruct
 
 ## Tools & Technologies
 
-**Containers:** Docker, Docker Compose, Kubernetes
-**Cloud & Infrastructure:** AWS, GCP, Terraform, Ansible
-**DevOps:** Git, GitHub, GitHub Actions, GitOps, Prometheus, Grafana
-**Development:** Python, Java, PHP, JavaScript, Dart, C, Flutter, MySQL, Redis
+* **Containers:** Docker, Docker Compose, Kubernetes
+* **Cloud & Infrastructure:** AWS, GCP, Terraform, Ansible
+* **DevOps:** Git, GitHub, GitHub Actions, GitOps, Prometheus, Grafana
+* **Development:** Python, Java, PHP, JavaScript, Dart, C, Flutter, MySQL, Redis
 
 ## Background
 

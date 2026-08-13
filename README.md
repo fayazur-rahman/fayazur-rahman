@@ -1,6 +1,6 @@
 # MD Fayazur Rahman
 
-Hi, I'm Fayazur. I'm an engineer interested in DevOps, Linux, infrastructure, containers, automation, and cloud technologies.
+Hi, I'm Fayazur. I'm an EdTech graduate interested in DevOps, Linux, infrastructure, containers, automation, and cloud technologies.
 
 I like understanding how things work under the hood and learning by building things myself. Most of what you'll find here is related to DevOps, system administration, and the tools and practices around running applications.
 
@@ -28,9 +28,9 @@ I like understanding how things work under the hood and learning by building thi
 
 I have a background in software and application development, with experience across web applications, mobile development, and machine learning.
 
-Some of my earlier work includes developing applications, working with databases and backend systems, and building machine learning projects. That experience led me to become more interested in what happens beyond the application itself — how software is built, deployed, secured, monitored, and maintained.
+Some of my earlier work includes developing applications, working with databases and backend systems, and completing my undergraduate thesis on a machine learning project. That experience led me to become more interested in what happens beyond the application itself — how software is built, deployed, secured, monitored, and maintained.
 
-## Selected Projects
+## Some of my Work
 
 ### [Probash Care App](https://github.com/fayazur-rahman/probash-care)
 

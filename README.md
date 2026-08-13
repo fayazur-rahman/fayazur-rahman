@@ -43,6 +43,7 @@ Moodle-based Learning Management System for course management, assessments, and 
 ## Education
 
 **B.Sc. Engg. in Educational Technology and Engineering**
+
 University of Frontier Technology, Bangladesh
 
 ## Connect

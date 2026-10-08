@@ -1,6 +1,6 @@
 # MD Fayazur Rahman
 
-Hi, I'm Fayazur. I'm an EdTech graduate interested in DevOps, Linux, infrastructure, containers, automation, and cloud technologies. I like understanding how things work under the hood and learning by building things myself. 
+Hello, I'm Fayazur. I'm an EdTech graduate interested in DevOps, Linux, Cloud and Automation. I focus on how applications are deployed, managed, and maintained in production. I believe the best way to understand a system is to build one.
 
 ---
 
